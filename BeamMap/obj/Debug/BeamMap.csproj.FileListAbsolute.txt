@@ -54,7 +54,6 @@ C:\Users\CHEL\Documents\GitHub\GoogleMapAPP\BeamMap\bin\Microsoft.CodeDom.Provid
 C:\Users\CHEL\Documents\GitHub\GoogleMapAPP\BeamMap\bin\Newtonsoft.Json.dll
 C:\Users\CHEL\Documents\GitHub\GoogleMapAPP\BeamMap\bin\Newtonsoft.Json.xml
 C:\Users\CHEL\Documents\GitHub\GoogleMapAPP\BeamMap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\CHEL\Documents\GitHub\GoogleMapAPP\BeamMap\obj\Debug\BeamMap.csproj.AssemblyReference.cache
 C:\Users\CHEL\Documents\GitHub\GoogleMapAPP\BeamMap\obj\Debug\BeamMap.csproj.CoreCompileInputs.cache
 C:\Users\CHEL\Documents\GitHub\GoogleMapAPP\BeamMap\obj\Debug\BeamMap.csproj.CopyComplete
 C:\Users\CHEL\Documents\GitHub\GoogleMapAPP\BeamMap\obj\Debug\BeanTest.dll
