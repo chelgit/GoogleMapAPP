@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c64a5e1-b313-4d63-b213-d32c9d97d18f": {
+      "ProjectGuid": "3c64a5e1-b313-4d63-b213-d32c9d97d18f",
+      "DisplayName": "BeamMap",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
