@@ -43,7 +43,7 @@
 
 
             
-            data = [{ "availableqty": 3, "distance": 0.56552593573014209, "lat": "1.3124", "long": "103.8542", "locationid": 2 }];
+            
            
         }
 
